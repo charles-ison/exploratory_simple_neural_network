@@ -1,1 +1,1 @@
-# exploratory_cnn
+# exploratory_simple_neural_network
